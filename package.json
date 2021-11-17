@@ -10,11 +10,16 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-picker/picker": "github:react-native-picker/picker",
+    "country-data": "^0.0.31",
     "expo": "~43.0.2",
+    "expo-linking": "^2.4.2",
+    "expo-location": "~13.0.4",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-geocoder": "^0.5.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
